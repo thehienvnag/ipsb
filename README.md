@@ -29,7 +29,7 @@
 </div>
 
 <!-- PROJECT GITHUB LINKS -->
-## Project Github links
+## Project's Github links
 <ul>
   <li>
     <a href="https://github.com/thehienvnag/ipsb_visitor_app">Visitor mobile app</a>
