@@ -35,6 +35,7 @@
 * Partner mobile app: https://github.com/thehienvnag/ipsb_partner_app
 * Partner web app:    https://github.com/thehienvnag/ipsb_partner_web_app
 * Back-end:           https://github.com/krisode/ipsb
+*
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -63,7 +64,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Backend: C# .NET 5, Entity Framework Core.
 * Push notification and File storage: Firebase.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
