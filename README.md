@@ -34,19 +34,19 @@
 <ul>
   <li>
     <a href="https://github.com/thehienvnag/ipsb_visitor_app">Visitor mobile app</a>
-  <li/>
+  </li>
   
   <li>
     <a href="https://github.com/thehienvnag/ipsb_partner_app">Partner mobile app</a>
-  <li/>
+  </li>
   
   <li>
     <a href="https://github.com/thehienvnag/ipsb_partner_web_app">Partner web app</a>
-  <li/>
+  </li>
   
   <li>
     <a href=https://github.com/krisode/ipsb">Back-end</a>
-  <li/>
+  </li>
 </ul>
 
 <!-- ABOUT THE PROJECT -->
