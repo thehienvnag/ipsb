@@ -30,8 +30,8 @@
   </p>
 </div>
 
-<!-- PROJECT LINKS -->
-## Project links
+<!-- PROJECT GITHUB LINKS -->
+## Project Github links
 <ul>
   <li>
     <a href="https://github.com/thehienvnag/ipsb_visitor_app">Visitor mobile app</a>
