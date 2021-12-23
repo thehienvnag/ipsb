@@ -22,6 +22,8 @@
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
+    <a href="https://github.com/thehienvnag/beauty-at-home/issues">Documentation</a>
+    ·
     <a href="https://github.com/thehienvnag/beauty-at-home/issues">Report Bug</a>
     ·
     <a href="https://github.com/thehienvnag/beauty-at-home/issues">Request Feature</a>
