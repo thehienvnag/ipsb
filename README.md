@@ -29,7 +29,12 @@
     <a href="https://github.com/thehienvnag/beauty-at-home/issues">Request Feature</a>
   </p>
 </div>
-
+<!-- PROJECT LINKS -->
+## Project links
+- Visitor mobile app: https://github.com/thehienvnag/ipsb_visitor_app
+- Partner mobile app: https://github.com/thehienvnag/ipsb_partner_app
+- Partner web app:    https://github.com/thehienvnag/ipsb_partner_web_app
+- Back-end:           https://github.com/krisode/ipsb
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
