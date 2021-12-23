@@ -77,7 +77,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-* Web application: React.js, Redux for state management, Ant Design for UI library.
+* Web application: React.js, Redux for state management, Ant Design for UI library.<br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 * Backend: C# .NET 5, Entity Framework Core, SQL Server.<br/>
