@@ -22,7 +22,7 @@
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://docs.google.com/document/d/1qOQx-0tg8-izugFI29ZtCOM7-PICR2Fz/edit?usp=sharing&ouid=108658965566963059405&rtpof=true&sd=trues">Documentation</a>
+    <a href="https://drive.google.com/drive/folders/1goHPi5oYvqWWzCPbX2U6xPLGayK50ylB">Documentation</a>
     ·
     <a href="https://github.com/thehienvnag/beauty-at-home/issues">Report Bug</a>
     ·
