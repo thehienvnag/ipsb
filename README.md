@@ -192,6 +192,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Thế Hiển - [@your_twitter](https://www.facebook.com/thehienvnag) - email@example.com
+Huỳnh Thế Hiển - [@Thế_Hiển](https://www.facebook.com/thehienvnag) - email@example.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
