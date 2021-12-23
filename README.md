@@ -59,18 +59,23 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+In commercial buildings, finding ways to specific places inside the building may cause exhaustion to the visitors that they are unable to quickly locate and get navigated to their visit places. While GPS is not able to provide location determination inside buildings due to the signal block of concrete walls, it prevents the use of the nowadays map platform in the use case of indoor positioning. 
+-> In order to leverage the visitor experiences, it raises a need for a system which provides real-time positioning and navigation.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project is for our university graduation thesis, IPSB supports following functions:
+o Building managers can deploy positioning services in their commercial building with ease.
+o Store owners in commercial building can deliver their promotional events.
+o Visitors of commercial building can save and use the coupon from the promotional events in the 
+building they visit.
+o Visitors can get their current position in the building, make shopping list and get directions to their 
+destination with ease.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+The followings is technologies that we use in the project:
+o Mobile app: Flutter, GetX for state management, android sensors for positioning algorithm.
+o Web application: React.js, Redux for state management, Ant Design for UI library.
+o Backend: C# .NET 5, Entity Framework Core.
+o Push notification and File storage: Firebase.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
