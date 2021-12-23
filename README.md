@@ -31,11 +31,23 @@
 </div>
 <!-- PROJECT LINKS -->
 ## Project links
-* Visitor mobile app: https://github.com/thehienvnag/ipsb_visitor_app
-* Partner mobile app: https://github.com/thehienvnag/ipsb_partner_app
-* Partner web app:    https://github.com/thehienvnag/ipsb_partner_web_app
-* Back-end:           https://github.com/krisode/ipsb
-*
+<ul>
+  <li>
+    <a href="https://github.com/thehienvnag/ipsb_visitor_app">Visitor mobile app</a>
+  <li/>
+  
+  <li>
+    <a href="https://github.com/thehienvnag/ipsb_partner_app">Partner mobile app</a>
+  <li/>
+  
+  <li>
+    <a href="https://github.com/thehienvnag/ipsb_partner_web_app">Partner web app</a>
+  <li/>
+  
+  <li>
+    <a href=https://github.com/krisode/ipsb">Back-end</a>
+  <li/>
+</ul>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
