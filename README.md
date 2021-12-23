@@ -67,8 +67,7 @@ destination with ease.
 
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The followings is technologies and frameworks used in our project:
 
 * **Mobile app**: Flutter, GetX for state management, android sensors for positioning algorithm. <br/>
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
