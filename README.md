@@ -24,7 +24,7 @@
     ·
     <a href="https://drive.google.com/drive/folders/1goHPi5oYvqWWzCPbX2U6xPLGayK50ylB">Documentation</a>
     ·
-    <a href="https://github.com/thehienvnag/beauty-at-home/issues">Request Feature</a>
+    <a href="https://github.com/thehienvnag/ipsb/issues">Request Feature</a>
   </p>
 </div>
 
