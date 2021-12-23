@@ -18,16 +18,13 @@
   <h3 align="center">Indoor Positioning System in Commercial Building - IPSB</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
+    A system enables commercial building to deploy positioning services with ease!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/thehienvnag/beauty-at-home/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/thehienvnag/beauty-at-home/issues">Request Feature</a>
   </p>
 </div>
 
