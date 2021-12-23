@@ -15,7 +15,7 @@
     <img src="Images/office-building.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Indoor Positioning System in Commercial Building - IPSB</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
