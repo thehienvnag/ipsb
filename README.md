@@ -29,6 +29,7 @@
     <a href="https://github.com/thehienvnag/beauty-at-home/issues">Request Feature</a>
   </p>
 </div>
+
 <!-- PROJECT LINKS -->
 ## Project links
 <ul>
