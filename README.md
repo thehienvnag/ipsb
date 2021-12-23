@@ -66,14 +66,11 @@ In commercial buildings, finding ways to specific places inside the building may
 <br/>
 This project is for our university graduation thesis, IPSB supports following functions:
 <br/>
-o Building managers can deploy positioning services in their commercial building with ease.
-<br/>
-o Store owners in commercial building can deliver their promotional events.
-<br/>
-o Visitors of commercial building can save and use the coupon from the promotional events in the 
+* Building managers can deploy positioning services in their commercial building with ease.
+* Store owners in commercial building can deliver their promotional events.
+* Visitors of commercial building can save and use the coupon from the promotional events in the 
 building they visit.
-<br/>
-o Visitors can get their current position in the building, make shopping list and get directions to their 
+* Visitors can get their current position in the building, make shopping list and get directions to their 
 destination with ease.
 
 
