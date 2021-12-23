@@ -60,25 +60,21 @@
 ## About The Project
 
 In commercial buildings, finding ways to specific places inside the building may cause exhaustion to the visitors that they are unable to quickly locate and get navigated to their visit places. While GPS is not able to provide location determination inside buildings due to the signal block of concrete walls, it prevents the use of the nowadays map platform in the use case of indoor positioning. 
+<br/>
 -> In order to leverage the visitor experiences, it raises a need for a system which provides real-time positioning and navigation.
-
+<br/>
+<br/>
 This project is for our university graduation thesis, IPSB supports following functions:
+<br/>
 o Building managers can deploy positioning services in their commercial building with ease.
+<br/>
 o Store owners in commercial building can deliver their promotional events.
+<br/>
 o Visitors of commercial building can save and use the coupon from the promotional events in the 
 building they visit.
+<br/>
 o Visitors can get their current position in the building, make shopping list and get directions to their 
 destination with ease.
-
-The followings is technologies that we use in the project:
-o Mobile app: Flutter, GetX for state management, android sensors for positioning algorithm.
-o Web application: React.js, Redux for state management, Ant Design for UI library.
-o Backend: C# .NET 5, Entity Framework Core.
-o Push notification and File storage: Firebase.
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
