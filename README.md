@@ -91,9 +91,9 @@ The followings is technologies and frameworks used in our project:
 <!-- CONTACT -->
 ## Contact
 
-Huỳnh Thế Hiển - [@The_Hien](https://www.facebook.com/thehienvnag) - thehienvnag@gmail.com <br/>
-Cao Quỳnh Trang - [@Quynh_Trang](https://www.facebook.com/caoquynhtrang) - trangcaoquynh1207@gmail.com <br/>
-Đồng Hữu Long - [@Huu_Long](https://www.facebook.com/donglong-ops) - donglong453@gmail.com <br/>
-Trần Trịnh Đăng Huy - [@Dang_Huy](https://www.facebook.com/krisode) - trantrinhdanghuy1406@gmail.com <br/>
+Huỳnh Thế Hiển        - [@The_Hien](https://www.facebook.com/thehienvnag) - thehienvnag@gmail.com <br/>
+Cao Quỳnh Trang       - [@Quynh_Trang](https://www.facebook.com/caoquynhtrang) - trangcaoquynh1207@gmail.com <br/>
+Đồng Hữu Long         - [@Huu_Long](https://www.facebook.com/donglong-ops) - donglong453@gmail.com <br/>
+Trần Trịnh Đăng Huy   - [@Dang_Huy](https://www.facebook.com/krisode) - trantrinhdanghuy1406@gmail.com <br/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
