@@ -20,8 +20,6 @@
   <p align="center">
     A system enables commercial building to deploy positioning services with ease!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
     <a href="https://drive.google.com/drive/folders/1goHPi5oYvqWWzCPbX2U6xPLGayK50ylB">Documentation</a>
     ·
     <a href="https://github.com/thehienvnag/ipsb/issues">Request Feature</a>
